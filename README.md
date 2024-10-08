@@ -1,4 +1,4 @@
-**introduction**
+## introduction
 - this repository serves as my social coding 
 portfolio for csc 10800: foundations of 
 data science
@@ -6,9 +6,9 @@ data science
 activities and reflective entries related
 to the course
 
-**contents**
+## contents
 - activity 1
 
-**license**
+## license
 - just don't do anything illegal lol
 
