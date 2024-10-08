@@ -1,8 +1,8 @@
 ## introduction
-- this repository serves as my social coding 
+this repository serves as my social coding 
 portfolio for csc 10800: foundations of 
 data science
-- it's gonna have some coding 
+it's gonna have some coding 
 activities and reflective entries related
 to the course
 
