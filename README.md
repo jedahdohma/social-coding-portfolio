@@ -7,7 +7,7 @@ activities and reflective entries related
 to the course
 
 ## contents
-- activity 1
+- activity 1 (a1_building_blocks.ipynb)
 - to be updated
 
 ## license
