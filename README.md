@@ -8,6 +8,7 @@ to the course
 
 ## contents
 - activity 1
+- to be updated
 
 ## license
 - just don't do anything illegal lol
