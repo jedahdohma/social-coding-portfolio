@@ -1,1 +1,3 @@
-this was kind of a pain in the butt ngl
+- this was kind of a pain in the butt ngl
+- i kind of gave up on trying to figure out the slash thing
+- but i just gave up and imported a folder instead
