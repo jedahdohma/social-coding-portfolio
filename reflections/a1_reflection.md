@@ -1,3 +1,7 @@
-- this was kind of a pain in the butt ngl
-- i kind of gave up on trying to figure out the slash thing
-- but i just gave up and imported a folder instead
+- had to remember the differences between the integer and string stuff
+- gladly remembered how to combine stuff, which was a relief
+- but then i kind of forgot how .lower() and .strip() worked, so i needed a refresher
+- also totally forgot you can print a data type. but then i looked through previous readings
+- you can write stuff without having it be a code
+- i think i know for sure how input works by now. became acquainted when i made a little program thing
+- had to read that f string reading but it was done....
