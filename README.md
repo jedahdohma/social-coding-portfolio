@@ -6,9 +6,12 @@ data science
 activities and reflective entries related
 to the course
 
-## contents
+## activities
 - activity 1 (a1_building_blocks.ipynb)
 - to be updated
+
+## for funsies
+- zoo/aquarium locator idk
 
 ## license
 - just don't do anything illegal lol
