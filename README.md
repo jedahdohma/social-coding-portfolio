@@ -8,7 +8,7 @@ to the course
 
 ## activities
 - activity 1 (a1_building_blocks.ipynb)
-- to be updated
+- activity 2 (a2_primer.ipynb)
 
 ## for funsies
 - zoo/aquarium locator idk
