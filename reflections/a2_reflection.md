@@ -1,0 +1,3 @@
+- this activity most definitely gave me a headache
+- python is a great teacher for logic
+- indentations can make or break your day
