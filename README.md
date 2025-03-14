@@ -15,5 +15,5 @@ to the course
 - zoo/aquarium locator idk
 
 ## license
-- just don't do anything illegal lol
+- just don't do anything illegal or else im telling my mom
 
