@@ -9,6 +9,7 @@ to the course
 ## activities
 - activity 1 (a1_building_blocks.ipynb)
 - activity 2 (a2_primer.ipynb)
+- activity 3 (a3_pandas.ipynb)
 
 ## for funsies
 - zoo/aquarium locator idk
