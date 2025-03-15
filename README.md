@@ -14,6 +14,11 @@ to the course
 ## for funsies
 - zoo/aquarium locator idk
 
+## reflections
+- for activity 1
+- " 2
+- " 3
+
 ## license
 - just don't do anything illegal or else im telling my mom
 
