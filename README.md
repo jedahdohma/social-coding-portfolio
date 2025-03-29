@@ -18,6 +18,8 @@ to the course
 - for activity 1
 - " 2
 - " 3
+- " 4
+- Final-Reflection
 
 ## license
 - just don't do anything illegal or else im telling my mom
